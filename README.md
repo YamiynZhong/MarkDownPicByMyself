@@ -1,2 +1,2 @@
 # MarkDownPicByMyself
-Typora的图库
+Typora的个人图库
